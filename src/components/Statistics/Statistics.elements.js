@@ -44,11 +44,12 @@ export const Title = styled.div`
 display: flex;
 justify-content: center;
 padding-top: 50px;
+text-align: center;
 `
 
 export const Heading = styled.h1`
 	margin: 0 auto 0;
-	font-size: 3rem;
+	font-size: 40px;
 `;
 
 export const SubHeading = styled.p`
